@@ -1,0 +1,1 @@
+Indeed, the nomenclature of this folder aligns with its intended purpose. Within, I have housed all the TypeScript types that are employed throughout the project.

@@ -1,0 +1,22 @@
+/* styles/custom-scrollbar.css */
+
+/* Hide the scrollbar by default */
+::-webkit-scrollbar {
+    width: 5px;
+    border-radius: 8px;
+    background-color: #1c1c1c; 
+  }
+  
+  /* Show the scrollbar on hover */
+  /* You can customize the scrollbar appearance here */
+  ::-webkit-scrollbar-thumb {
+    background-color: #4a4a4a; /* Customize the color */
+    border-radius: 4px;
+  }
+  
+  /* You can also customize the track (background) appearance */
+  ::-webkit-scrollbar-track {
+    background-color: #1c1c1c; /* Customize the color */
+    border-radius: 8px;
+  }
+  

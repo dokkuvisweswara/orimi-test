@@ -1,0 +1,623 @@
+[
+    {
+        "genereid": "DANCEHALL",
+        "id": "DANCEHALL",
+        "title": {
+            "default": "Dancehall",
+            "eng": "Dancehall",
+            "mon": "Бүжгийн танхим"
+        }
+    },
+    {
+        "genereid": "LYRICAL",
+        "id": "LYRICAL",
+        "title": {
+            "default": "Lyrical",
+            "eng": "Lyrical",
+            "mon": "Нийтийн"
+        }
+    },
+    {
+        "genereid": "EDUCATIONAL",
+        "id": "EDUCATIONAL",
+        "title": {
+            "default": "Educational",
+            "eng": "Educational",
+            "mon": "Боловсрол"
+        }
+    },
+    {
+        "genereid": "RAGGAETON",
+        "id": "RAGGAETON",
+        "title": {
+            "default": "Raggaeton",
+            "eng": "Raggaeton",
+            "mon": "Реггетон"
+        }
+    },
+    {
+        "genereid": "ART & ENTERTAINMENT",
+        "id": "ART & ENTERTAINMENT",
+        "title": {
+            "default": "Art & Entertainment",
+            "eng": "Art & Entertainment",
+            "mon": "Урлаг, уран сайхан"
+        }
+    },
+    {
+        "genereid": "BEAUTY & FASHION",
+        "id": "BEAUTY & FASHION",
+        "title": {
+            "default": "Beauty & Fashion",
+            "eng": "Beauty & Fashion",
+            "mon": "Гоо сайхан, загвар"
+        }
+    },
+    {
+        "genereid": "COMEDY",
+        "id": "COMEDY",
+        "title": {
+            "default": "Comedy",
+            "eng": "Comedy",
+            "mon": "Инээдмийн"
+        }
+    },
+    {
+        "genereid": "COVER",
+        "id": "COVER",
+        "title": {
+            "default": "Cover",
+            "eng": "Cover",
+            "mon": "Ковер"
+        }
+    },
+    {
+        "genereid": "COOKING",
+        "id": "COOKING",
+        "title": {
+            "default": "Cooking",
+            "eng": "Cooking",
+            "mon": "Хоол хийх урлаг"
+        }
+    },
+    {
+        "genereid": "HEALTH & WELLNESS",
+        "id": "HEALTH & WELLNESS",
+        "title": {
+            "default": "Health & Wellness",
+            "eng": "Health & Wellness",
+            "mon": "Эрүүл мэнд"
+        }
+    },
+    {
+        "genereid": "KIDS",
+        "id": "KIDS",
+        "title": {
+            "default": "Kids",
+            "eng": "Kids",
+            "mon": "Хүүхдийн"
+        }
+    },
+    {
+        "genereid": "LIFE STYLE",
+        "id": "LIFE STYLE",
+        "title": {
+            "default": "Life style",
+            "eng": "Life style",
+            "mon": "Амьдралын хэв маяг"
+        }
+    },
+    {
+        "genereid": "LIVE MUSIC",
+        "id": "LIVE MUSIC",
+        "title": {
+            "default": "Live music",
+            "eng": "Live music",
+            "mon": "Амьд хөгжим"
+        }
+    },
+    {
+        "genereid": "NEWS & POLITICS",
+        "id": "NEWS & POLITICS",
+        "title": {
+            "default": "News & Politics",
+            "eng": "News & Politics",
+            "mon": "Мэдээ, улс төр"
+        }
+    },
+    {
+        "genereid": "PHILOSOPHY",
+        "id": "PHILOSOPHY",
+        "title": {
+            "default": "Philosophy",
+            "eng": "Philosophy",
+            "mon": "Философи"
+        }
+    },
+    {
+        "genereid": "RELIGION & SPIRITUALITY",
+        "id": "RELIGION & SPIRITUALITY",
+        "title": {
+            "default": "Religion & Spirituality",
+            "eng": "Religion & Spirituality",
+            "mon": "Шашин шүтлэг"
+        }
+    },
+    {
+        "genereid": "STORIES",
+        "id": "STORIES",
+        "title": {
+            "default": "Stories",
+            "eng": "Stories",
+            "mon": "Болсон явдал"
+        }
+    },
+    {
+        "genereid": "AMBIENT",
+        "id": "AMBIENT",
+        "title": {
+            "default": "Ambient",
+            "eng": "Ambient",
+            "mon": "Орчны"
+        }
+    },
+    {
+        "genereid": "THROAT SINGING",
+        "id": "THROAT SINGING",
+        "title": {
+            "default": "Throat singing",
+            "eng": "Throat singing",
+            "mon": "Хөөмий"
+        }
+    },
+    {
+        "genereid": "LONG SONG",
+        "id": "LONG SONG",
+        "title": {
+            "default": "Long song",
+            "eng": "Long song",
+            "mon": "Уртын"
+        }
+    },
+    {
+        "genereid": "MONGOLIAN FOLK",
+        "id": "MONGOLIAN FOLK",
+        "title": {
+            "default": "Mongolian folk",
+            "eng": "Mongolian folk",
+            "mon": "Ардын"
+        }
+    },
+    {
+        "genereid": "TECHNO",
+        "id": "TECHNO",
+        "title": {
+            "default": "Techno",
+            "eng": "Techno",
+            "mon": "Техно"
+        }
+    },
+    {
+        "genereid": "TRANCE",
+        "id": "TRANCE",
+        "title": {
+            "default": "Trance",
+            "eng": "Trance",
+            "mon": "Trance"
+        }
+    },
+    {
+        "genereid": "HARD ROCK",
+        "id": "HARD ROCK",
+        "title": {
+            "default": "Hard rock",
+            "eng": "Hard rock",
+            "mon": "Хард рок"
+        }
+    },
+    {
+        "genereid": "INSTRUMENTAL",
+        "id": "INSTRUMENTAL",
+        "title": {
+            "default": "Instrumental",
+            "eng": "Instrumental",
+            "mon": "Хөгжмийн зэмсэг"
+        }
+    },
+    {
+        "genereid": "HOUSE",
+        "id": "HOUSE",
+        "title": {
+            "default": "House",
+            "eng": "House",
+            "mon": "Хаус"
+        }
+    },
+    {
+        "genereid": "EXPERIMENTAL",
+        "id": "EXPERIMENTAL",
+        "title": {
+            "default": "Experimental",
+            "eng": "Experimental",
+            "mon": "Туршилтын"
+        }
+    },
+    {
+        "genereid": "TECHNOLOGY",
+        "id": "TECHNOLOGY",
+        "title": {
+            "default": "Technology",
+            "eng": "Technology",
+            "mon": "Технологи"
+        }
+    },
+    {
+        "genereid": "TRUE CRIME",
+        "id": "TRUE CRIME",
+        "title": {
+            "default": "True crime",
+            "eng": "True crime",
+            "mon": "Бодит гэм хэрэг"
+        }
+    },
+    {
+        "genereid": "HISTORICAL",
+        "id": "HISTORICAL",
+        "title": {
+            "default": "Historical",
+            "eng": "Historical",
+            "mon": "Түүхийн"
+        }
+    },
+    {
+        "genereid": "BUSINESS & FINANCE",
+        "id": "BUSINESS & FINANCE",
+        "title": {
+            "default": "Business & Finance",
+            "eng": "Business & Finance",
+            "mon": "Бизнес, санхүү"
+        }
+    },
+    {
+        "genereid": "SPORTS",
+        "id": "SPORTS",
+        "title": {
+            "default": "Sports",
+            "eng": "Sports",
+            "mon": "Спорт"
+        }
+    },
+    {
+        "genereid": "BIOGRAPHY",
+        "id": "BIOGRAPHY",
+        "title": {
+            "default": "Biography",
+            "eng": "Biography",
+            "mon": "Намтар"
+        }
+    },
+    {
+        "genereid": "SELF-DEVELOPMENT",
+        "id": "SELF-DEVELOPMENT",
+        "title": {
+            "default": "Self-development",
+            "eng": "Self-development",
+            "mon": "Хувь хүний хөгжил"
+        }
+    },
+    {
+        "genereid": "FICTION",
+        "id": "FICTION",
+        "title": {
+            "default": "Fiction",
+            "eng": "Fiction",
+            "mon": "Уран зөгнөлт"
+        }
+    },
+    {
+        "genereid": "NOVEL",
+        "id": "NOVEL",
+        "title": {
+            "default": "Novel",
+            "eng": "Novel",
+            "mon": "Роман"
+        }
+    },
+    {
+        "genereid": "MYSTERY & THRILLER",
+        "id": "MYSTERY & THRILLER",
+        "title": {
+            "default": "Mystery & Thriller",
+            "eng": "Mystery & Thriller",
+            "mon": "Учир битүүлэг, триллер"
+        }
+    },
+    {
+        "genereid": "HORROR",
+        "id": "HORROR",
+        "title": {
+            "default": "Horror",
+            "eng": "Horror",
+            "mon": "Аймшгийн"
+        }
+    },
+    {
+        "genereid": "SCI-FI & FANTASY",
+        "id": "SCI-FI & FANTASY",
+        "title": {
+            "default": "Sci-fi & Fantasy",
+            "eng": "Sci-fi & Fantasy",
+            "mon": "Шинжлэх ухааны уран зөгнөлт"
+        }
+    },
+    {
+        "genereid": "ROMANCE",
+        "id": "ROMANCE",
+        "title": {
+            "default": "Romance",
+            "eng": "Romance",
+            "mon": "Хайр дурлалын"
+        }
+    },
+    {
+        "genereid": "ADVENTURE",
+        "id": "ADVENTURE",
+        "title": {
+            "default": "Adventure",
+            "eng": "Adventure",
+            "mon": "Адал явдалт"
+        }
+    },
+    {
+        "genereid": "HISTORY",
+        "id": "HISTORY",
+        "title": {
+            "default": "History",
+            "eng": "History",
+            "mon": "Түүхийн"
+        }
+    },
+    {
+        "genereid": "SCIENCE & NATURE",
+        "id": "SCIENCE & NATURE",
+        "title": {
+            "default": "Science & Nature",
+            "eng": "Science & Nature",
+            "mon": "Шинжлэх ухаан, байгаль"
+        }
+    },
+    {
+        "genereid": "SOCIOLOGY",
+        "id": "SOCIOLOGY",
+        "title": {
+            "default": "Sociology",
+            "eng": "Sociology",
+            "mon": "Нийгэм шинжлэл"
+        }
+    },
+    {
+        "genereid": "POLITICS & ECONOMICS",
+        "id": "POLITICS & ECONOMICS",
+        "title": {
+            "default": "Politics & Economics",
+            "eng": "Politics & Economics",
+            "mon": "Улс төр, эдийн засаг"
+        }
+    },
+    {
+        "genereid": "POETRY",
+        "id": "POETRY",
+        "title": {
+            "default": "Poetry",
+            "eng": "Poetry",
+            "mon": "Шүлгийн"
+        }
+    },
+    {
+        "genereid": "ESSAY",
+        "id": "ESSAY",
+        "title": {
+            "default": "Essay",
+            "eng": "Essay",
+            "mon": "Эсээ"
+        }
+    },
+    {
+        "genereid": "TEEN & YOUNG ADULTS",
+        "id": "TEEN & YOUNG ADULTS",
+        "title": {
+            "default": "Teen & Young adults",
+            "eng": "Teen & Young adults",
+            "mon": "Өсвөр нас, залуучууд"
+        }
+    },
+    {
+        "genereid": "CHILDRENS",
+        "id": "CHILDRENS",
+        "title": {
+            "default": "Children's",
+            "eng": "Children's",
+            "mon": "Хүүхдийн"
+        }
+    },
+    {
+        "genereid": "LGBTQ+",
+        "id": "LGBTQ+",
+        "title": {
+            "default": "LGBTQ+",
+            "eng": "LGBTQ+",
+            "mon": "ЛГБТК+"
+        }
+    },
+    {
+        "genereid": "MUSIC",
+        "id": "MUSIC",
+        "title": {
+            "default": "Music",
+            "eng": "Music",
+            "mon": "ДУУ"
+        }
+    },
+    {
+        "genereid": "POP",
+        "id": "POP",
+        "title": {
+            "default": "Pop",
+            "eng": "Pop",
+            "mon": "Поп"
+        }
+    },
+    {
+        "genereid": "ROCK",
+        "id": "ROCK",
+        "title": {
+            "default": "Rock",
+            "eng": "Rock",
+            "mon": "Роск, Алтернатив"
+        }
+    },
+    {
+        "genereid": "HIP HOP",
+        "id": "HIP HOP",
+        "title": {
+            "default": "Hip hop",
+            "eng": "Hip hop",
+            "mon": "Хип хоп, Реп"
+        }
+    },
+    {
+        "genereid": "JAZZ",
+        "id": "JAZZ",
+        "title": {
+            "default": "Jazz",
+            "eng": "Jazz",
+            "mon": "Жааз"
+        }
+    },
+    {
+        "genereid": "POPULAR SONGS",
+        "id": "POPULAR SONGS",
+        "title": {
+            "default": "Popular songs",
+            "eng": "Popular songs",
+            "mon": "Нийтийн "
+        }
+    },
+    {
+        "genereid": "ELECTRONIC",
+        "id": "ELECTRONIC",
+        "title": {
+            "default": "Electronic",
+            "eng": "Electronic",
+            "mon": "Электроник"
+        }
+    },
+    {
+        "genereid": "ETHNICS",
+        "id": "ETHNICS",
+        "title": {
+            "default": "Ethnics",
+            "eng": "Ethnics",
+            "mon": "Этник"
+        }
+    },
+    {
+        "genereid": "CLASSICAL",
+        "id": "CLASSICAL",
+        "title": {
+            "default": "Classical",
+            "eng": "Classical",
+            "mon": "Сонгодог"
+        }
+    },
+    {
+        "genereid": "R&B",
+        "id": "R&B",
+        "title": {
+            "default": "R&B",
+            "eng": "R&B",
+            "mon": "R&B"
+        }
+    },
+    {
+        "genereid": "REGGAE",
+        "id": "REGGAE",
+        "title": {
+            "default": "Reggae",
+            "eng": "Reggae",
+            "mon": "Регги"
+        }
+    },
+    {
+        "genereid": "POP OPERA",
+        "id": "POP OPERA",
+        "title": {
+            "default": "Pop opera",
+            "eng": "Pop opera",
+            "mon": "Поп опера"
+        }
+    },
+    {
+        "genereid": "METAL",
+        "id": "METAL",
+        "title": {
+            "default": "Metal",
+            "eng": "Metal",
+            "mon": "Метал"
+        }
+    },
+    {
+        "genereid": "COUNTRY",
+        "id": "COUNTRY",
+        "title": {
+            "default": "Country",
+            "eng": "Country",
+            "mon": "Кантри"
+        }
+    },
+    {
+        "genereid": "ORCHESTRA",
+        "id": "ORCHESTRA",
+        "title": {
+            "default": "Orchestra",
+            "eng": "Orchestra",
+            "mon": "Оркестр"
+        }
+    },
+    {
+        "genereid": "MONGOLIAN COUNTRY",
+        "id": "MONGOLIAN COUNTRY",
+        "title": {
+            "default": "Mongolian country",
+            "eng": "Mongolian country",
+            "mon": "Монгол кантри"
+        }
+    },
+    {
+        "genereid": "MUSICAL COMPOSITION",
+        "id": "MUSICAL COMPOSITION",
+        "title": {
+            "default": "Musical composition",
+            "eng": "Musical composition",
+            "mon": "Хөгжмийн бүтээлүүд"
+        }
+    },
+    {
+        "genereid": "SOUND TRACK",
+        "id": "SOUND TRACK",
+        "title": {
+            "default": "Sound track",
+            "eng": "Sound track",
+            "mon": "Киноны дуу"
+        }
+    },
+    {
+        "genereid": "TRAP",
+        "id": "TRAP",
+        "title": {
+            "default": "Trap",
+            "eng": "Trap",
+            "mon": "Трап "
+        }
+    }
+]

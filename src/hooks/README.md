@@ -1,0 +1,1 @@
+localstore, session store, cookies
